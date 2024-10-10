@@ -4,3 +4,5 @@ java based spring boot application
 mvn compile
 mvn test -DskipTests=true
 mvn package -DskipTests=true
+
+> mvn clean package -DskipTests=true
